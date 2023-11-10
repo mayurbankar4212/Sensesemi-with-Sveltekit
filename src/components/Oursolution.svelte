@@ -26,13 +26,13 @@
             <p class=" mt-3 text-sm  md:text-[17px] lg:text-[17px] text-justify font-poppins text-[#ffffff] leading-relaxed"> Filling in the gap between patient and doctor, our device SenseH &nbsp; With zero downtime and an effortless onboarding process, the device integrates with existing workflows to help measure: Should be highlighting the technology of acquiring (simple device)</p>
           
           
-  <div class="flex flex-row">
+  <div class="flex flex-col sm:flex-row">
           <ul class=" text-white text-sm md:text-[17px] lg:text-[17px] text-justify mt-6 font-poppins leading-relaxed ">
             <li><i class="fas fa-dot-circle text-white text-sm   ml-1 mr-2"></i>Cuffless Blood Pressure</li>
             <li><i class="fas fa-dot-circle text-white  text-sm  ml-1 mr-2"></i>Heart Rate</li>
             <li><i class="fas fa-dot-circle text-white  text-sm  ml-1 mr-2"></i>SPO2 Levels</li>
           </ul>
-          <ul  class=" text-white text-sm md:text-[17px] lg:text-[17px] text-justify mt-6 font-poppins leading-relaxed ml-32 ">
+          <ul  class=" text-white text-sm md:text-[17px] lg:text-[17px] text-justify mt-6 font-poppins leading-relaxed sm:ml-32 ">
             <li> <i class="fas fa-dot-circle text-white text-sm  ml-1  mr-2"> </i>Body Tempreture</li>
             <li><i class="fas fa-dot-circle text-white  text-sm  ml-1 mr-2"></i>Glucose/Blood Sugar Levels</li>
             <li><i class="fas fa-dot-circle text-white text-sm   ml-1 mr-2"></i>6-12 Lead ECG</li>
@@ -117,7 +117,7 @@
             <img src="/icon 1.png" alt="icon1" class=" w-[37px] h-[37px] sm:w-[42px] sm:h-[42px]   md:w-[50px] md:h-[50px]  lg:w-[80px] lg:h-[80px]  xl:mr-1 p-1 mt-2 mb-4 md:ml-3 lg:ml-3 xl:ml-6 xl:w-[100px] xl:h-[100px] ">
         </div>
         <div class="w-5/6 p-1  ">
-            <h2 class="text-2xl font-medium text-justify text-[#1F3363] font-poppins">Operational Efficiency</h2>
+            <h2 class="text-2xl font-medium sm:text-justify text-[#1F3363] font-poppins">Operational Efficiency</h2>
             <p class="text-sm md:text-sm lg:text-base mt-1 text-justify text-[#1F3363] font-poppins pb-4">Integrated data history in one place allows the patient, his/her family and the medical fraternity an enterprise platform to monitor, track, and use key information faster and more efficiently while simultaneously ruling out the risk of manual error with data entry.</p>
         </div>
     </div>
@@ -134,7 +134,7 @@
              <img src="/icon 2.png" alt="icon2" class="  w-[37px] h-[37px] sm:w-[42px] sm:h-[42px]   md:w-[50px] md:h-[50px]  lg:w-[80px] lg:h-[80px]  xl:mr-4 p-1 mt-2 mb-4 md:ml-3 lg:ml-3 xl:ml-4 xl:w-[100px] xl:h-[100px]">
          </div>
          <div class="w-5/6 p-1">
-             <h2 class="text-2xl font-medium text-justify text-[#1F3363] font-poppins">Simplified User Experience</h2>
+             <h2 class="text-2xl font-medium sm:text-justify text-[#1F3363] font-poppins">Simplified User Experience</h2>
              <p class="text-sm md:text-sm lg:text-base mt-1 text-justify text-[#1F3363] font-poppins pb-4">With an effortless manner of recording and retrieving information, remote health monitoring opens the door to highly specialized services being offered to a wider range of audiences globally.</p>
          </div>
      </div>
@@ -150,7 +150,7 @@
              <img src="/icon 3.png" alt="icon2" class="  w-[37px] h-[37px] sm:w-[42px] sm:h-[42px] md:w-[50px] md:h-[50px]  lg:w-[80px] lg:h-[80px]  xl:mr-5 p-1 mt-2 mb-4 md:ml-2 lg:ml-3 xl:ml-6 xl:w-[90px] xl:h-[90px]">
          </div>
          <div class="w-5/6 p-1">
-             <h2 class="text-2xl font-medium text-justify text-[#1F3363] font-poppins">
+             <h2 class="text-2xl font-medium sm:text-justify text-[#1F3363] font-poppins">
               Secure Data Integration</h2>
              <p class="text-sm md:text-sm lg:text-base mt-1 text-justify text-[#1F3363] font-poppins pb-4">Although it is available at the tip of your fingers, utmost priority has been given to data security keeping in mind the criticality of personal information stored by the device.</p>
          </div>
@@ -168,7 +168,7 @@
              <img src="/icon 4.png" alt="icon2" class="  w-[37px] h-[37px] sm:w-[42px] sm:h-[42px]   md:w-[50px] md:h-[50px]  lg:w-[80px] lg:h-[80px]  xl:mr-3 p-1 mt-2 mb-4 md:ml-3 lg:ml-3 xl:ml-6 xl:w-[100px] xl:h-[100px]">
          </div>
          <div class="w-5/6 p-1">
-             <h2 class="text-2xl font-medium text-justify text-[#1F3363] font-poppins">
+             <h2 class="text-2xl font-medium sm:text-justify text-[#1F3363] font-poppins">
               Ease of Acquiring</h2>
              <p class="text-sm md:text-sm lg:text-base mt-1 text-justify text-[#1F3363] font-poppins pb-4">Complementary to existing systems around the world, a simple, non-disruptive onboarding process makes SenseH the easiest device to adapt and work with.</p>
          </div>
@@ -187,7 +187,7 @@
              <img src="/icon5.png" alt="icon2" class="  w-[37px] h-[37px] sm:w-[42px] sm:h-[42px]   md:w-[50px] md:h-[50px]  lg:w-[80px] lg:h-[80px]  xl:mr-3 p-1 mt-2 mb-4 md:ml-3 lg:ml-3 xl:ml-6 xl:w-[100px] xl:h-[100px]">
          </div>
          <div class="w-5/6 p-1">
-             <h2 class="text-2xl font-medium text-justify text-[#1F3363] font-poppins">
+             <h2 class="text-2xl font-medium sm:text-justify text-[#1F3363] font-poppins">
               Transparent Partner Integration</h2>
              <p class="text-sm md:text-sm lg:text-base mt-1 text-justify text-[#1F3363] font-poppins pb4">With a detailed software development kit designed for those interested in providing the technology developed by SenseSemi, we offer a complete collaboration module that benefits all stakeholders mutually including the end-users.</p>
          </div>

@@ -9,7 +9,7 @@
     <div class=" flex justify-center bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 1 with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100  p-2 rounded-md">
+          <div class="p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle1">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200 " id="icon1" >▶</span>
                   <p class=" text-md font-poppins text-justify">How to monitor vital stats using SenseH?</p>
@@ -44,7 +44,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 2  with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100 p-2 rounded-md">
+          <div class=" p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle2">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon2">▶</span>
                   <p class="text-md font-poppins text-justify">Do I need internet connectivity to use the device?</p>
@@ -80,7 +80,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 3  with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100 p-2 rounded-md">
+          <div class="  p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle3">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon3">▶</span>
                   <p class="text-md font-poppins text-justify">What is the battery life of this device? / Is this device rechargeable? / How is this device powered?</p>
@@ -115,7 +115,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph  4 with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100 p-2 rounded-md">
+          <div class=" p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle4">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon4">▶</span>
                   <p class="text-md font-poppins text-justify">Do I need an individual device per user or can I track the data for multiple users on one device?</p>
@@ -152,7 +152,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 5  with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100 p-2 rounded-md">
+          <div class=" p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle5">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon5">▶</span>
                   <p class="text-md font-poppins text-justify">Does the device need any maintenance? / What is the maintenance procedure for the device?</p>
@@ -186,7 +186,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 6  with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100 p-2 rounded-md">
+          <div class=" p-2 rounded-md">
               <div class="flex items-center cursor-pointer" id="toggle6">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon6">▶</span>
                   <p class="text-md font-poppins text-justify">Are there any precautionary measures to follow before using the device?</p>
@@ -220,7 +220,7 @@
     <div class=" flex justify-center mt-1 bg-[#f5f2f2]">
       <div class="w-full md:w-2/3">
           <!-- Paragraph 7 with Slowly Opening Dropdown and Play Icon -->
-          <div class=" hover:bg-purple-100  p-2 rounded-md mb-8 font-poppins">
+          <div class=" p-2 rounded-md mb-8 font-poppins">
               <div class="flex items-center cursor-pointer" id="toggle7">
                   <span class="text-xs mr-2 transition-transform transform rotate-0 ease-in-out duration-200" id="icon7">▶</span>
                   <p classclass="text-md ">Who all has access to the information saved on the device?</p>
