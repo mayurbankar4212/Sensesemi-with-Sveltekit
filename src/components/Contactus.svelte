@@ -1,11 +1,12 @@
 
+
 <!-- contact us section starts -->
 <div id="contactus" class="flex justify-center mb-12 mt-6 ">
     <h1 class="text-xl text-[#00a8ca] sm:3xl md:text-4xl lg:text-4xl xl:5xl font-bold mt-5 text-center font-poppins leading-relaxed">Contact us</h1>
   </div>
   
   <div class="flex justify-center flex-col md:flex-col lg:flex-row xl:flex-row ">
-  <div class="   xl:w-[363px] xl:h-[529px] p-7 text-white rounded-3xl" style="background: linear-gradient(to bottom, #051e58, #00a8ca); ">
+  <div class="   xl:w-[363px] xl:h-[480px] p-7 text-white rounded-3xl" style="background: linear-gradient(to bottom, #051e58, #00a8ca); ">
     <h1 class="text-2xl  text-left mt-4 font-poppins ">Contact Information</h1>
     
     <p class=" mt-6 mb-6 text-justify text-sm  font-poppins">Fill up the form and our team will get back to you within 24 hours.</p>
@@ -15,12 +16,12 @@
         <i class="fas fa-phone text-xl"></i>
         <p class="mt-1 sm:ml-2 font-poppins text-sm" >080 47573057</p>
       </div>
-  <!-- Contact Number2 -->
+  <!-- Contact Number2
   <div class="flex flex-col  sm:flex-row sm:items-center">
     <i class="fas fa-phone text-lg"></i>
     <p class="mt-1 sm:ml-2 font-poppins text-sm">935 3218558</p>
   </div>
-  
+   -->
       <!-- Website Link -->
       <div class="flex flex-col md:items-center sm:flex-row sm:items-center">
         <i class="fas fa-globe text-xl"></i>
@@ -47,11 +48,13 @@
       </div>
     </div>
   </div>
+
   
 
 <!-- Contact Form -->
 <div class="xl:w-1/2 p-8  ">
-  <form class="text-center">
+
+  <form class="text-center" method="POST" >
 
     <div class="flex flex-row ">
     <div class="mb-4 border-b-2 mr-12  w-80 ">
@@ -86,7 +89,9 @@
         Send Message
       </button>
     </div>
+
   </form>
+
 </div>
 </div>
   

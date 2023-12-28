@@ -27,7 +27,7 @@
 <!-- Navbar list items starts here -->
 <!-- list item 1 -->
       <li>
-        <a href="#Home" class=" text-gray-500 font-poppins block py-2 pl-3 pr-10 rounded md:p-0  dark:bg-blue-400 md:dark:bg-transparent text-[16px] " aria-current="page">Home</a>
+        <a href="#home" class=" text-gray-500 font-poppins block py-2 pl-3 pr-10 rounded md:p-0  dark:bg-blue-400 md:dark:bg-transparent text-[16px] " aria-current="page">Home</a>
       </li>
 <!-- list item 2 with buttun -->
       <li>
